@@ -5,7 +5,7 @@
 - 🧠 I’m currently working on: Improve my knowledge.
 - ✅ I like to play video games, cats are cute, I like photography, I am passionate about computer hardware, I have a great love for space and its vastness and my favorite food is hamburger.
 
-### Programming Languages 🌐
+### Skills 🎯
 <div style="display: inline_block"><br>
   <img align="center" alt="Carta-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Carta-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
