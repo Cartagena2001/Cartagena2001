@@ -19,7 +19,7 @@
   <img align="center" alt="Carta-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cartagena2001&layout=compact&langs_count=7&theme=cobalt"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cartagena2001&layout=compact&langs_count=7&theme=synthwave"/>
 
 
 <!--
