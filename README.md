@@ -1,4 +1,4 @@
-### Front-end Web Developer 🐬
+### Software Enginner 🐬
 
 
 - 📫 How to reach me: salvadorcartajena@hotmail.com.
