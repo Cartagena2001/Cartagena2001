@@ -11,4 +11,3 @@ Software Enginner 🐬<br>📫 How to reach me: salvadorcartajena@hotmail.com.<b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cartagena2001&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Cartagena2001&icon=0&color=12)](https://visitcount.itsvg.in)
