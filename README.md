@@ -6,9 +6,9 @@
  | . \      Editor: Cursor
  |_|\_\     Uptime: 24 years
             Role: Software Engineer 🐬
-    _       Languages: JavaScript, PHP, SQL
+    _       Languages: JavaScript, PHP, SQL, Python
    / \      Tech Stack: React, Next.js, Laravel
-  / _ \     Database: MySQL, PostgreSQL, MSSQL
+  / _ \     Database: MySQL, PostgreSQL, Mongo
  / ___ \    UI/UX: Tailwind, Figma, Bootstrap
 /_/   \_\   
             CONTACTS
