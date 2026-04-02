@@ -1,32 +1,34 @@
-```text
-  _  __     karta@el-salvador
- | |/ /     -----------------
- | ' /      OS: Linux Mint
- |  <       Shell: Zsh
- | . \      Editor: Cursor
- |_|\_\     Uptime: 24 years
-            Role: Software Engineer 🐬
-    _       Languages: JavaScript, PHP, SQL, Python
-   / \      Tech Stack: React, Next.js, Laravel
-  / _ \     Database: MySQL, PostgreSQL, Mongo
- / ___ \    UI/UX: Tailwind, Figma, Bootstrap
-/_/   \_\   
-            CONTACTS
-  ____      --------
- |  _ \     Email: salvadorcartajena@hotmail.com
- | |_) |    LinkedIn: guillermo-cartagena
- |  _ <     Instagram: cartagena_._
- | | \_\    Twitter: @Karta_12
- |_|  \_\   
-            INTERESTS
-  _____     ---------
- |_   _|    Hobbies: Running, Cycling, Gaming, Photography, Hardware
-   | |      Food: Hamburgers
-   | |      
-   |_|      
+# 👨‍💻 data.json
 
-    _       
-   / \      
-  / _ \     
- / ___ \    
-/_/   \_\
+```json
+{
+  "identity": {
+    "username": "karta",
+    "location": "El Salvador",
+    "role": "Software Engineer 🐬",
+    "uptime": "24 years"
+  },
+  "technical_stack": {
+    "languages": ["JavaScript", "PHP", "SQL", "Python"],
+    "frameworks": ["React", "Next.js", "Laravel"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB"],
+    "ui_ux": ["Tailwind", "Figma", "Bootstrap"]
+  },
+  "environment": {
+    "os": "Linux",
+    "shell": "Zsh",
+    "editor": "Cursor"
+  },
+  "interests": {
+    "hobbies": ["Running", "Cycling", "Gaming", "Photography", "Hardware"],
+    "favorites": {
+      "food": "Hamburgers"
+    }
+  },
+  "contact": {
+    "email": "salvadorcartajena@hotmail.com",
+    "linkedin": "guillermo-cartagena",
+    "instagram": "cartagena_._",
+    "twitter": "@Karta_12"
+  }
+}
