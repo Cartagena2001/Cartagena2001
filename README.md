@@ -1,5 +1,3 @@
-# 👨‍💻 data.json
-
 ```json
 {
   "identity": {
