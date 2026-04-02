@@ -3,7 +3,7 @@
   "identity": {
     "username": "karta",
     "location": "El Salvador",
-    "role": "Software Engineer 🐬",
+    "role": "Software Engineer 🦦",
     "uptime": "24 years"
   },
   "technical_stack": {
@@ -13,7 +13,7 @@
     "ui_ux": ["Tailwind", "Figma", "Bootstrap"]
   },
   "environment": {
-    "os": "Linux",
+    "os": "Linux Mint / CachyOS",
     "shell": "Zsh",
     "editor": "Cursor"
   },
